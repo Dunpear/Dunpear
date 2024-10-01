@@ -12,6 +12,6 @@
 I have been active in the web development field for four years, and for the past two years, I have been working
 professionally in the industry.
 
-- 🌐  I have strong skills in implementing network-based projects and am well-versed in networking principles.
+- 🌐   I have strong skills in implementing network-based projects and am well-versed in networking principles.
 - ֎🇦🇮  Currently, I am researching artificial intelligence and trying to steer my projects in that direction.
-- 💡  Just coding isn’t enough to satisfy me. Most of the time, I aim to move projects forward with different architectures and structures
+- 💡   Just coding isn’t enough to satisfy me. Most of the time, I aim to move projects forward with different architectures and structures
