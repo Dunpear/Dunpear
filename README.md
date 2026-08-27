@@ -44,52 +44,26 @@ website:    https://morez.dev
 
 **Backend & Languages**
 
-`Python` &nbsp;`85%`
-<br><img src="https://progress-bar.dev/85/?width=280&color=39ff88&suffix=&title="/>
-
-`Django` &nbsp;`95%`
-<br><img src="https://progress-bar.dev/95/?width=280&color=39ff88&suffix=&title="/>
-
-`REST API Design` &nbsp;`99%`
-<br><img src="https://progress-bar.dev/99/?width=280&color=39ff88&suffix=&title="/>
-
-`FastAPI` &nbsp;`80%`
-<br><img src="https://progress-bar.dev/80/?width=280&color=39ff88&suffix=&title="/>
-
-`Flask` &nbsp;`80%`
-<br><img src="https://progress-bar.dev/80/?width=280&color=39ff88&suffix=&title="/>
-
-`JavaScript` &nbsp;`80%`
-<br><img src="https://progress-bar.dev/80/?width=280&color=f7df1e&suffix=&title="/>
-
-`Next.js` &nbsp;`88%`
-<br><img src="https://progress-bar.dev/88/?width=280&color=ffffff&suffix=&title="/>
+![Python](https://img.shields.io/badge/Python-85%25-39FF88?style=flat-square&labelColor=1a1a1a)
+![Django](https://img.shields.io/badge/Django-95%25-39FF88?style=flat-square&labelColor=1a1a1a)
+![REST_API_Design](https://img.shields.io/badge/REST%20API%20Design-99%25-39FF88?style=flat-square&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-80%25-39FF88?style=flat-square&labelColor=1a1a1a)
+![Flask](https://img.shields.io/badge/Flask-80%25-39FF88?style=flat-square&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat-square&labelColor=1a1a1a)
+![Next.js](https://img.shields.io/badge/Next.js-88%25-FFFFFF?style=flat-square&labelColor=1a1a1a)
 
 </td>
 <td width="50%" valign="top">
 
 **Data, Infra & Security**
 
-`Database Design` &nbsp;`88%`
-<br><img src="https://progress-bar.dev/88/?width=280&color=39ff88&suffix=&title="/>
-
-`MySQL` &nbsp;`75%`
-<br><img src="https://progress-bar.dev/75/?width=280&color=00758f&suffix=&title="/>
-
-`Redis` &nbsp;`83%`
-<br><img src="https://progress-bar.dev/83/?width=280&color=dc382d&suffix=&title="/>
-
-`MongoDB` &nbsp;`65%`
-<br><img src="https://progress-bar.dev/65/?width=280&color=47a248&suffix=&title="/>
-
-`Docker` &nbsp;`75%`
-<br><img src="https://progress-bar.dev/75/?width=280&color=2496ed&suffix=&title="/>
-
-`Kubernetes` &nbsp;`55%`
-<br><img src="https://progress-bar.dev/55/?width=280&color=326ce5&suffix=&title="/>
-
-`OWASP / Web Security` &nbsp;`89%`
-<br><img src="https://progress-bar.dev/89/?width=280&color=39ff88&suffix=&title="/>
+![Database_Design](https://img.shields.io/badge/Database%20Design-88%25-39FF88?style=flat-square&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-75%25-00758F?style=flat-square&labelColor=1a1a1a)
+![Redis](https://img.shields.io/badge/Redis-83%25-DC382D?style=flat-square&labelColor=1a1a1a)
+![MongoDB](https://img.shields.io/badge/MongoDB-65%25-47A248?style=flat-square&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=flat-square&labelColor=1a1a1a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-55%25-326CE5?style=flat-square&labelColor=1a1a1a)
+![OWASP](https://img.shields.io/badge/OWASP%20%2F%20Web%20Security-89%25-39FF88?style=flat-square&labelColor=1a1a1a)
 
 </td>
 </tr>
@@ -183,10 +157,10 @@ Online grocery platform integrated with HesabNova — real-time inventory sync, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dunpear&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=39FF88&icon_color=39FF88&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dunpear&theme=dark&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=dunpear&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=39FF88&icon_color=39FF88&text_color=FFFFFF" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=dunpear&theme=dark&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunpear&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=39FF88&text_color=FFFFFF" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dunpear&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=39FF88&text_color=FFFFFF" height="165"/>
 
 </div>
 
