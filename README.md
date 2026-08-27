@@ -30,7 +30,7 @@ name:       Mohammad Rezaei
 role:       Backend-Focused Full-Stack Developer
 focus:      Django · DRF · System Architecture · Web Security
 experience: 7+ years
-based_in:   Malayer, Iran
+based_in:   Tehran, Iran
 website:    https://morez.dev
 ```
 
@@ -130,7 +130,7 @@ Integrated online accounting platform for SMBs — online/offline sales, e-comme
 </td>
 <td width="33%" valign="top">
 
-### 🛋️ [BazaarMobleMalayer](https://bazaarmoblemalayer.ir)
+### 🛋️ [TakVerse](https://takverse.ir)
 `2025` &nbsp;🟢 Live
 
 Marketplace for Malayer's furniture industry — connecting workshops, galleries, and production businesses.
